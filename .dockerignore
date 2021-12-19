@@ -1,0 +1,10 @@
+*.md
+Dockerfile.*
+Dockerfile
+.git/
+.dockerignore
+latex-webserver/*
+
+
+
+
