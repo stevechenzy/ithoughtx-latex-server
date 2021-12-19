@@ -5,7 +5,7 @@ A simple implementation of a web server support ithoutghts latex.
 
 ![](https://images.squarespace-cdn.com/content/v1/5065b792c4aac831ab26e463/1596552442233-42XJJWZE2OK2C4I16CBT/surfacebook%2Bwin.png?format=750w) https://www.toketaware.com/
 
-Verything based on Texlive/texlive docker.
+Everything based on Texlive/texlive docker.
 set your latex server in ithoughts as: http://localhost:8888/index.php?tex=%TEX%&scale=%SCALE%
 
 I "steal" the code from https://github.com/DMOJ/texoid and change a little on the asynchronous implementation of native coroutines
