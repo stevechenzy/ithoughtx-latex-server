@@ -54,7 +54,7 @@ add Chinse support in the string
 
 ### complete graph with chinese title
 
-![](graph-with-chinese-title.png)
+![graph-with-chinese-title](graph-with-chinese-title.png)
 
 ```latex
 $$
@@ -105,7 +105,7 @@ $$
 
 ### Periodic table 
 
-![](periodic-table.png)
+![元素周期表](periodic-table.png)
 
 ```latex
 $$
@@ -472,7 +472,7 @@ $$
 
 ### Chinese Poem
 
-![](poem.png) 
+![密州出猎](poem.png) 
 
 ```latex
 $$
